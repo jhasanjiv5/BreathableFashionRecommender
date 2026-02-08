@@ -1,0 +1,1 @@
+A recommender system that checks the weather and accordingly suggests the appropriate clothing to go out and enjoy the day.

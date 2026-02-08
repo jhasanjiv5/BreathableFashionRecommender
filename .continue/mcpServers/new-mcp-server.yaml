@@ -1,0 +1,13 @@
+name: New fashion server
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: New fashion server
+    "command": "uv"
+    "args": [
+      "--directory",
+      "/Users/sanjivjha/Code/breathable_fashion_recommender",
+      "run",
+      "fashion_server.py"
+    ]
+    env: {}
